@@ -6,3 +6,7 @@
 ###### H6 Header
 
 ![Linux logo](https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png)
+
+```py
+print("Hello World")
+```
