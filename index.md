@@ -10,3 +10,7 @@
 ```py
 print("Hello World")
 ```
+- [x] username is required
+- [x] email is required
+- [x] password is required
+- [ ] image is optional  
